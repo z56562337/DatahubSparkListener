@@ -1,0 +1,22 @@
+# Compiled class file
+*.class
+*.log 
+target/*
+project/proejct/
+project/target/
+null/
+
+# Package Files 
+*.cache
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+#IDE spcific file
+.idea/
+.bsp/
+derby.log
+
